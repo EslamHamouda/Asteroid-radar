@@ -1,9 +1,3 @@
-# Purpose of this Folder
+# Asteroid Radar
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
-
-## Note: Android Kotlin Gradle Update
-Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
-```
-distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
-```
+![screen-shot-2020-06-08-at-2 21 53-pm](https://user-images.githubusercontent.com/69871727/189503446-37e56d07-e756-4f6d-ba96-ad6ddba4f372.png)
